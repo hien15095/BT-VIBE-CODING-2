@@ -1,0 +1,23 @@
+﻿# Node
+node_modules/
+
+# Env
+.env
+.env.*
+
+# Logs
+*.log
+
+# Build output
+frontend/dist/
+backend/dist/
+
+# Uploads
+backend/uploads/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/

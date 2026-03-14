@@ -1,0 +1,11 @@
+﻿book_id,title,publisher,number_of_pages,size,author,category_id
+B001,Lap trinh Web,NXB Tre,350,20x28,Nguyen B,1
+B002,Co so du lieu,NXB Giao Duc,420,20x28,Tran C,1
+B003,Kinh te vi mo,NXB Kinh Te,300,19x27,Le D,2
+B004,Quan tri nhan su,NXB Lao Dong,280,19x27,Pham E,3
+B005,Ke toan tai chinh,NXB Tai Chinh,360,20x28,Hoang F,4
+B006,Tai chinh doanh nghiep,NXB Tai Chinh,330,20x28,Vu G,5
+B007,Marketing can ban,NXB Lao Dong,250,19x27,Do H,6
+B008,English Grammar,NXB Ngoai Ngu,290,19x27,Bui I,7
+B009,Luat dan su,NXB Tu Phap,400,20x28,Dang K,8
+B010,Machine Learning,NXB Khoa Hoc,520,21x29,Nguyen L,9
