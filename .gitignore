@@ -15,6 +15,10 @@ backend/dist/
 # Uploads
 backend/uploads/
 
+# Sensitive data
+data/readers.csv
+data/users.csv
+
 # OS
 .DS_Store
 Thumbs.db
