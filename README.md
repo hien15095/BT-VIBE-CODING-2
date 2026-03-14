@@ -49,7 +49,7 @@ Hệ thống quản lý thư viện dành cho trường đại học, có phân 
 ### 3.2 Portal sinh viên
 - Kho sách (tìm kiếm theo tên/tác giả/mã/chuyên ngành)
 - Gửi yêu cầu mượn
-- Yêu cầu của tôi (lọc trạng thái, hủy yêu cầu pending)
+- Yêu cầu của tôi (lọc trạng thái, hủy yêu cầu đang chờ)
 - Lịch sử mượn
 - Hồ sơ cá nhân + đổi mật khẩu
 - Thống kê nhanh (tổng sách, bản sao khả dụng, sách đang mượn, yêu cầu đang chờ)
